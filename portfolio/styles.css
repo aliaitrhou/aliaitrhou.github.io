@@ -269,7 +269,7 @@ img {
 .form-container {
     width: 600px;
     height: 290px;
-    background-color: var(--ali-color3);
+    background-color: var(--ali-color2);
     position: absolute;
     left: 0;
     right: 0;
@@ -343,7 +343,7 @@ textarea {
     .form-container {
         width: 400px;
         height: 290px;
-        background-color: white;
+        background-color: var(--ali-color2);
         position: absolute;
         left: 0;
         right: 0;
