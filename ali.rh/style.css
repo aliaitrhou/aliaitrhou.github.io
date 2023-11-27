@@ -487,7 +487,7 @@ input[type='checkbox']
     height: 400px;
     object-fit: cover;
     transition: all .3s ease;
-    filter: blur(20px);
+    filter: blur(5px);
 }
 
 .about__img:nth-child(1) {
